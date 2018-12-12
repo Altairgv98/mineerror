@@ -1,0 +1,2 @@
+# mineerror
+error mine
